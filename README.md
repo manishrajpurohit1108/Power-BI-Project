@@ -98,4 +98,4 @@ Created the following measures for analysis:
 
 ---
 
-✨ This project demonstrates an **end-to-end BI workflow**: from **data preparation → modeling → DAX calculations → visualization → business insights**.  
+✨ This project demonstrates an **end-to-end BI workflow**: from **data preparation → modeling → DAX calculations → visualization → business insights**..  
