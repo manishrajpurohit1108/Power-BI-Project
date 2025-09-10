@@ -1,7 +1,7 @@
 # 📊 Superstore Sales Analysis – Power BI Project  
 
 ## 📝 Project Title  
-**Superstore Sales Analysis Dashboard**  
+**Superstore Sales Analysis Dashboard**
 
 ## 🎯 Problem Statement / Goal  
 The objective of this project is to analyze **Superstore sales data** and provide actionable business insights related to revenue, orders, customers, and products.  
@@ -11,7 +11,7 @@ The dashboards help in monitoring **sales trends, category performance, customer
 
 ## 📂 Dataset Details  
 - **Dataset Name:** Superstore Sales Dataset  
-- **Source:** [Dataset](https://github.com/manishrajpurohit1108/Power-BI-Project/blob/main/superstore_sales.csv)  
+- **Source:** [Dataset](https://github.com/manishrajpurohit1108/Power-BI-Project/blob/main/superstore_sales.csv) from Kaggle
 - **Columns (18 total):**  
   - `Row ID`, `Order ID`, `Order Date`, `Ship Date`, `Ship Mode`  
   - `Customer ID`, `Customer Name`, `Segment`, `Country`, `City`, `State`, `Postal Code`, `Region`  
@@ -91,10 +91,10 @@ Created the following measures for analysis:
 
 ## 📸 Dashboard Screenshots  
 ### Page 1 – Sales Overview  
-![Dashboard Page 1](Dashboard%20Page%201.png)  
+![Dashboard Page 1](https://github.com/manishrajpurohit1108/Power-BI-Project/blob/main/Dashboard%20Page%201.png)
 
 ### Page 2 – Customer & Product Insights  
-![Dashboard Page 2](Dashboard%20page%202.png)  
+![Dashboard Page 2](https://github.com/manishrajpurohit1108/Power-BI-Project/blob/main/Dashboard%20page%202.png)  
 
 ---
 
