@@ -11,7 +11,7 @@ The dashboards help in monitoring **sales trends, category performance, customer
 
 ## 📂 Dataset Details  
 - **Dataset Name:** Superstore Sales Dataset  
-- **Source:** Public sample dataset  
+- **Source:** [Dataset](https://github.com/manishrajpurohit1108/Power-BI-Project/blob/main/superstore_sales.csv)  
 - **Columns (18 total):**  
   - `Row ID`, `Order ID`, `Order Date`, `Ship Date`, `Ship Mode`  
   - `Customer ID`, `Customer Name`, `Segment`, `Country`, `City`, `State`, `Postal Code`, `Region`  
