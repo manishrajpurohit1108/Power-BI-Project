@@ -52,7 +52,8 @@ Created the following measures for analysis:
 - Added **slicers** for Year, Month, and State filters  
 - Added **navigation button/icon** to switch between dashboards  
 - Added **info button (Q&A)** to allow users to ask questions and get more insights  
-- Applied a **consistent purple-pink theme** for a professional look  
+- Applied a **consistent purple-pink theme** for a professional look
+- Implemented **hierarchies** in charts to enable drill-down and drill-up functionality for deeper analysis. 
 
 ---
 
