@@ -90,6 +90,11 @@ Created the following measures for analysis:
 
 ---
 
+## 📁 Project Power-BI File:
+[Project File](https://github.com/manishrajpurohit1108/Power-BI-Project/blob/main/Superstore%20Sales%20Analysis%20Project.pbix)
+
+---
+
 ## 📸 Dashboard Screenshots  
 ### Page 1 – Sales Overview  
 ![Dashboard Page 1](https://github.com/manishrajpurohit1108/Power-BI-Project/blob/main/Dashboard%20Page%201.png)
